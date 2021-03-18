@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NETCORE_CRUD_991</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/font-awesome/css/all.css">
+    <link rel="stylesheet" href="~/css/Estilo.css">
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+</head>
+<body>
+    <div class="sidebar">
+        <h2>MENU</h2>
+        <ul>
+            <li><a asp-controller="Clientes" asp-action="Index">Clientes</a></li>
+            <li><a asp-controller="Paquetes" asp-action="Index">Paquetes</a></li>
+            <li><a asp-controller="TipoMercancias" asp-action="Index">Tipo de Mercancia</a></li>
+            <li><a asp-controller="Transportadoras" asp-action="Index">Transportadoras</a></li>
+            <li><a asp-controller="ValorLibras" asp-action="Index">Valor Libras</a></li>
+        </ul>
+    </div>
+    <div class="contenido">
+        <div class="container">
+            <a class="menu-bar btn-block abrir"><i class="fas fa-bars"></i> </a>
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+    
+
+    <script src="~/js/abrir.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

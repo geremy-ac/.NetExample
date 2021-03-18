@@ -1,0 +1,71 @@
+﻿@model IEnumerable<NETCORE_CRUD_991.Clases.PaqueteDetalle>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CrearEditar" class="btn btn-secondary btn-block"><i class="fas fa-backspace"></i> Crear Paquete</a>
+
+</p>
+
+<form asp-action="Index" method="post">
+    <div class="form-actions no-color">
+        <p>
+            Filtro: <input type="text" name="busqueda" value="" placeholder="Buscar..." />
+            <input type="submit" value="Buscar" class="btn btn-primary" />
+            <a asp-action="Index">Mostrar todos los registros</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CodigoPaquete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PesoLibra)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Casillero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCasillero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodigoPaquete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PesoLibra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Casillero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCasillero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                <a asp-action="CrearEditar" class="text-primary" asp-route-id="@item.IdPaquete"><i class="fas fa-user-edit"></i> Editar</a> |
+                <a asp-action="Detalle" class="text-info" asp-route-id="@item.IdPaquete"><i class="fas fa-search-plus"></i> Detalle</a> |
+                <a asp-action="Eliminar" onclick="return confirm ('¿Desea eliminar este paquete?')" class="text-danger" asp-route-id="@item.IdPaquete"><i class="fas fa-trash-alt"></i> Eliminar</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,111 @@
+﻿@model NETCORE_CRUD_991.Models.Entities.Paquete
+
+@{
+    ViewData["Title"] = "Crear ó Modificar Paquete";
+}
+
+<h1>Crear ó Modificar</h1>
+
+<h4>Paquete</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CrearEditar">
+
+
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdPaquete" />
+
+            <div class="form-group">
+                <label asp-for="CodigoPaquete" class="control-label"></label>
+                <input asp-for="CodigoPaquete" class="form-control" />
+                <span asp-validation-for="CodigoPaquete" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PesoLibra" class="control-label"></label>
+                <input asp-for="PesoLibra" class="form-control" />
+                <span asp-validation-for="PesoLibra" class="text-danger"></span>
+            </div>
+
+            <div class="form-group col-md-6">
+                <label asp-for="IdCliente" class="control-label"></label>
+                <select asp-for="IdCliente" asp-items="@(new SelectList(ViewBag.Cliente, "IdCliente", "Nombre"))" class="form-control"></select>
+                <span asp-validation-for="IdCliente" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Estado" class="control-label"></label>
+                @{if (Model.IdCliente == 0)
+                    {
+                        <select asp-for="Estado" class="form-control">
+                            <option value="En Bodega Miami">En Bodega Miami</option>
+
+
+                        </select>
+                        <span asp-validation-for="Estado" class="text-danger"></span>
+                    }
+                    else
+                    {
+                        <select asp-for="Estado" class="form-control">
+                            <option value="En Bodega Miami">En Bodega Miami</option>
+                            <option value="En transito Colombia">En transito Colombia</option>
+                            <option value="En bodega Colombia">En bodega Colombia</option>
+                            <option value="En transito adireccion del cliente">En transito adireccion del cliente</option>
+                            <option value="Entregado">Entregado</option>
+
+                        </select>
+                    }
+                }
+                @*<select asp-for="Estado" class="form-control">
+                <option value="En Bodega USA">En Bodega USA</option>
+                <option value="En Aerolinea USA">En Aerolinea USA</option>
+                <option value="Salida de Aerolinea hacia destino">Salida de Aerolinea hacia destino</option>
+                <option value="En Bodega COL">En Bodega COL</option>
+                <option value="En Ruta COL">En Ruta COL</option>
+                <option value="Entregado">Entregado</option>
+            </select>*@
+                <span asp-validation-for="Estado" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+                <label asp-for="USA" class="control-label"></label>
+                <input asp-for="USA" class="form-control" />
+                <span asp-validation-for="USA" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="IdTransportadora" class="control-label"></label>
+                <select asp-for="IdTransportadora" asp-items="@(new SelectList(ViewBag.Transportadoras, "IdTransportadora", "Nombre"))" class="form-control"></select>
+                <span asp-validation-for="IdTransportadora" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="IdValorLibra" class="control-label"></label>
+                <select asp-for="IdValorLibra" asp-items="@(new SelectList(ViewBag.ValorLibra, "IdValorLibra", "Valor"))" class="form-control"></select>
+                <span asp-validation-for="IdValorLibra" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="IdTipoMercancia" class="control-label"></label>
+                <select asp-for="IdTipoMercancia" asp-items="@(new SelectList(ViewBag.TipoMercancia, "IdTipoMercancia", "Nombre"))" class="form-control"></select>
+                <span asp-validation-for="IdTipoMercancia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="COL" class="control-label"></label>
+                <input asp-for="COL" class="form-control" />
+                <span asp-validation-for="COL" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Crear Paquete" class="btn btn-primary" />
+            </div>
+
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Volver a la Lista</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

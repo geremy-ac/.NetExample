@@ -1,0 +1,48 @@
+﻿@model IEnumerable<NETCORE_CRUD_991.Models.Entities.ValorLibra>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Valor Libra</h1>
+
+
+<form asp-action="Index" method="post">
+    <div class="form-actions no-color">
+        <p>
+            Filtro: <input type="text" name="busqueda" value="" placeholder="Buscar..." />
+            <input type="submit" value="Buscar" class="btn btn-primary" />
+            <a asp-action="Index">Mostrar todos los registros</a>
+        </p>
+    </div>
+</form>
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdValorLibra)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valor)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdValorLibra)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Valor)
+                </td>
+                <td>
+                    <a asp-action="CrearEditar" class="text-primary" asp-route-id="@item.IdValorLibra"><i class="fas fa-user-edit"></i> Editar</a> |
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

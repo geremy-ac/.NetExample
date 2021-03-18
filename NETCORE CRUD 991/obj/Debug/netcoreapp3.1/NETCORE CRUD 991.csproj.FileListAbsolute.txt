@@ -1,0 +1,1109 @@
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.exe
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csprojAssemblyReference.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfoInputs.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfo.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.input.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.output.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorCoreGenerate.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.Manifest.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.xml
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CopyComplete
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.deps.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.dev.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.genruntimeconfig.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\Index.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\CrearEditar.cshtml.g.cs
+C:\Users\Snake\source\repos\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\Detalle.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.exe
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.deps.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.dev.json
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csprojAssemblyReference.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfoInputs.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfo.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CoreCompileInputs.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.input.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.output.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorCoreGenerate.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\CrearEditar.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\Detalle.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Empleados\Index.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CopyComplete
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.Manifest.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.xml
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.genruntimeconfig.cache
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\CrearEditar.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Detalle.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Index.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\CrearEditar.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Detalle.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Index.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\CrearEditar.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Detalle.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Index.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\CrearEditar.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Detalle.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Index.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\CrearEditar.cshtml.g.cs
+C:\Users\Cristobal\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Detalle.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.exe
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.deps.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.dev.json
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csprojAssemblyReference.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfoInputs.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfo.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CoreCompileInputs.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.input.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.output.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorCoreGenerate.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\CrearEditar.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Detalle.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\CrearEditar.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Detalle.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Index.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\CrearEditar.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Detalle.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Index.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\CrearEditar.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Detalle.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Index.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\CrearEditar.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Detalle.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Index.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cs
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CopyComplete
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.Manifest.cache
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.xml
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Geremy\Downloads\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.exe
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.deps.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.dev.json
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.input.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.output.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorCoreGenerate.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\CrearEditar.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Detalle.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\CrearEditar.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Detalle.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\CrearEditar.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Detalle.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\CrearEditar.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Detalle.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\CrearEditar.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Detalle.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Index.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CopyComplete
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.xml
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Create.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Delete.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Details.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Edit.cshtml.g.cs
+C:\Users\Usuario\Downloads\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.Development.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\libman.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.exe
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.deps.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.dev.json
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csprojAssemblyReference.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfoInputs.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfo.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CoreCompileInputs.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.MvcApplicationPartsAssemblyInfo.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.input.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.output.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorCoreGenerate.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\CrearEditar.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Detalle.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Create.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Delete.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Details.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Edit.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\CrearEditar.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Detalle.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\CrearEditar.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Detalle.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\CrearEditar.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Detalle.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\CrearEditar.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Detalle.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Index.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cs
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CopyComplete
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.Manifest.cache
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.xml
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+A:\Descargas\NETCORE CRUD 991 mod11\NETCORE CRUD 991 mod\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.genruntimeconfig.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.exe
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.deps.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.runtimeconfig.dev.json
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csprojAssemblyReference.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfoInputs.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.AssemblyInfo.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CoreCompileInputs.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorAssemblyInfo.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.input.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.TagHelpers.output.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorCoreGenerate.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\CrearEditar.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Detalle.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Index.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Create.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Delete.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Details.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Edit.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Estados\Index.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\CrearEditar.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Detalle.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Paquetes\Index.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\CrearEditar.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Detalle.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\TipoMercancias\Index.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\CrearEditar.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Detalle.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\Transportadoras\Index.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\CrearEditar.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Detalle.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\ValorLibras\Index.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.RazorTargetAssemblyInfo.cs
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.Views.pdb
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.csproj.CopyComplete
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.Manifest.cache
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\staticwebassets\NETCORE CRUD 991.StaticWebAssets.xml
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.dll
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.pdb
+C:\Users\Moncho\Desktop\NETCORE CRUD 991MIA\NETCORE CRUD 991\NETCORE CRUD 991\obj\Debug\netcoreapp3.1\NETCORE CRUD 991.genruntimeconfig.cache
